@@ -1,0 +1,13 @@
+# Ignore all files
+*
+
+# But allow these file extensions
+!*.html
+!*.css
+!*.js
+
+# Explicitly allow the UI asset
+!pure-input.png
+
+# Ignore directories like .git (not strictly necessary to ignore .git itself, but just in case)
+!.gitignore
