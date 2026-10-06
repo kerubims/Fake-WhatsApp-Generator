@@ -12,3 +12,4 @@
 # Ignore directories like .git (not strictly necessary to ignore .git itself, but just in case)
 !.gitignore
 !README.md
+!backbround.jpg
